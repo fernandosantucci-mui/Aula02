@@ -1,2 +1,2 @@
-ping www.Poki.com.br
+ping  www.Poki.com.br
   pause
